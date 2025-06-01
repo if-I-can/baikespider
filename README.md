@@ -1,5 +1,3 @@
-Table 1. Concentrations ($\mu\mathrm{L}/\mathrm{L}$) of fenitrothion in exposure containers as measured by HPLC
-
 | Nominal concentration | Measured concentration |
 |-----------------------|------------------------|
 |                       | 0 h                    | 4 h                    | 8 h                    | 24 h                   |
