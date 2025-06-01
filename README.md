@@ -1,11 +1,14 @@
-| Nominal concentration | Measured concentration |
-|-----------------------|------------------------|
-|                       | 0 h                    | 4 h                    | 8 h                    | 24 h                   |
-| Technical grade       |                        |                        |                        |                        |
-| 0.005                 | 0.009                  | 0.01                   | 0.008                  | 0.004                  |
-| 0.16                  | 0.152                  | -                      | 0.086                  | 0.012                  |
-| 1.6                   | 0.51                   | 0.649                  | 0.366                  | 0.285                  |
-| Operational spray     |                        |                        |                        |                        |
-| 0.004                 | 0.009                  | 0.012                  | 0.017                  | 0.014                  |
-| 0.08                  | 0.036                  | 0.028                  | 0.04                   | 0.023                  |
-| 1.6                   | 0.609                  | 0.422                  | 0.282                  | 0.193                  |
+| Parameter | Value | Quantity |
+| --- | --- | --- |
+| Colour | 7 | mg Pt/l |
+| Conductivity | 67.9 | $\mu \mathrm{S} / \mathrm{cm}$ |
+| $\mathrm{pH}$ | 6.86 |  |
+| Alkalinity | 141 | $\mu \mathrm{ekv} / 1$ |
+| Ca | 3.6 | $\mathrm{mg} / 1$ |
+| Mg | 1.3 | $\mathrm{mg} / 1$ |
+| Na | 6.2 | $\mathrm{mg} / 1$ |
+| K | 1.5 | $\mathrm{mg} / 1$ |
+| $\mathrm{SO}_{4}$ | 6.0 | $\mathrm{mg} / 1$ |
+| Cl | 10.3 | $\mathrm{mg} / 1$ |
+| $\mathrm{NO}_{2}-\mathrm{N}$ | 423 | $\mu \mathrm{g} / 1$ |
+| Ala | 7 | $\mu \mathrm{g} / 1$ |
