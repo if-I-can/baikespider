@@ -1,14 +1,7 @@
-| Parameter | Value | Quantity |
-| --- | --- | --- |
-| Colour | 7 | mg Pt/l |
-| Conductivity | 67.9 | $\mu \mathrm{S} / \mathrm{cm}$ |
-| $\mathrm{pH}$ | 6.86 |  |
-| Alkalinity | 141 | $\mu \mathrm{ekv} / 1$ |
-| Ca | 3.6 | $\mathrm{mg} / 1$ |
-| Mg | 1.3 | $\mathrm{mg} / 1$ |
-| Na | 6.2 | $\mathrm{mg} / 1$ |
-| K | 1.5 | $\mathrm{mg} / 1$ |
-| $\mathrm{SO}_{4}$ | 6.0 | $\mathrm{mg} / 1$ |
-| Cl | 10.3 | $\mathrm{mg} / 1$ |
-| $\mathrm{NO}_{2}-\mathrm{N}$ | 423 | $\mu \mathrm{g} / 1$ |
-| Ala | 7 | $\mu \mathrm{g} / 1$ |
+| Level | Plasma chloride |  | Blood glucose |  | Blood lactate |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Average | s.e. | $P$ | Average | s.e. | $P$ | Average | s.e. | $P$ |
+| (a) | SWA | 160 | 4 | ** | 3.9 | 0.2 | ** | 6.2 | 0.7 | ns |
+|  | SWA+P | 150 | 2 |  | 3.2 | 0.2 |  | 4.9 | 0.3 |  |
+| (b) | FWA | 132 | 2 | *** | 5.1 | 0.6 | ** | 6.6 | 0.5 | *** |
+|  | FWA+P | 145 | 1 |  | 3.5 | 0.2 |  | 3.8 | 0.3 |  |
